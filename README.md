@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="https://dmx3377.uk/images/bender.jpg" width="100"/>
 
-<!--
-**dmx3377/dmx3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>dmx3377/David</h1>
 
-Here are some ideas to get you started:
+I own [DMx Software](https://dmx3377.uk).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer from the ~great~ land of [Reading](https://www.google.co.uk/maps/place/Reading,%20UK/), UK.
+
+---
+<!-- ## Things I am working on:
+--- -->
+
+## Contact
+- Contact form *(preferred way)*: https://dmx3377.uk/contact
+- X/Twitter: [@dmx3377](https://x.com/dmx3377)  
+- Email: [<img src="https://dmx3377.uk/images/email_button.svg" alt="Email" width="125"/>](mailto:david@dmx3377.uk)
+
+<!-- add stats later -->
