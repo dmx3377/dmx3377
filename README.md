@@ -1,7 +1,7 @@
 <!--<img src="https://cdn.dmx3377.uk/images/bender.jpg" width="100"/>-->
 <h1>dmx3377/David</h1>
 
-I own [DMx Software](https://dmx3377.uk).  
+I am a human on this crazy planet.
 
 I'm a developer from the ~great~ land of [Reading](https://www.google.co.uk/maps/place/Reading,%20UK/), UK.
 
@@ -19,11 +19,10 @@ I'm a developer from the ~great~ land of [Reading](https://www.google.co.uk/maps
 - Python
 - HTML
 - CSS
-- Lua [*(yes, really.)*](https://rurl.dmx3377.uk/)
+- Lua
 - JavaScript
 - TypeScript
 - React
 - Tailwind CSS
-
-I also make various projects... <i><a id="no-oss" href="https://blog.dmx3377.uk/2025/12/why-no-os/">(but why are they not here?!)</a></i>
+- Go
 <!-- add stats later -->
