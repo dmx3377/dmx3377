@@ -1,28 +1,24 @@
-<!--<img src="https://cdn.dmx3377.uk/images/bender.jpg" width="100"/>-->
-<h1>dmx3377/David</h1>
+# Hi, I'm David 👋
 
-I am a human on this crazy planet.
-
-I'm a developer from the ~great~ land of [Reading](https://www.google.co.uk/maps/place/Reading,%20UK/), UK.
+I'm a software developer based in **Reading, UK**, focused on building clean and efficient applications and tools. 
 
 ---
-<!-- ## Things I am working on:
---- -->
 
-## Contact
-- Contact form *(preferred way)*: https://dmx3377.uk/contact
-- X/Twitter: [@dmx3377](https://x.com/dmx3377)  
-- Email: [<img src="https://cdn.dmx3377.uk/email_button.svg" alt="" width="125"/>](mailto:david@dmx3377.uk)
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Go, C, C#, JavaScript, TypeScript, Lua, HTML5, CSS3, Kotlin |
+| **Frameworks & Frontend** | React, Tailwind CSS, Android, .NET |
+| **Systems & Scripting** | Python, Go, Lua |
 
 ---
-## Tech stack and thingies...
-- Python
-- HTML
-- CSS
-- Lua
-- JavaScript
-- TypeScript
-- React
-- Tailwind CSS
-- Go
-<!-- add stats later -->
+
+## 📬 Get in Touch
+
+I'm always open to collaborating on interesting projects or just talking tech. Feel free to reach out!
+
+* **Contact Form:** [dmx3377.uk/contact](https://dmx3377.uk/contact) *(Preferred)*
+* **X / Twitter:** [@dmx3377](https://x.com/dmx3377)
+* **Email:** [david@dmx3377.uk](mailto:david@dmx3377.uk)
+* **Instagram**: [@dmx_3377](https://instagram.com/dmx_3377)
