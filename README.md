@@ -20,5 +20,5 @@ I'm always open to collaborating on interesting projects or just talking tech. F
 
 * **Contact Form:** [dmx3377.uk/contact](https://dmx3377.uk/contact) *(Preferred)*
 * **X / Twitter:** [@dmx3377](https://x.com/dmx3377)
-* **Email:** [david@dmx3377.uk](mailto:david@dmx3377.uk)
-* **Instagram**: [@dmx_3377](https://instagram.com/dmx_3377)
+* **Email:** [hi@davm.dev](mailto:hi@davm.dev)
+* **Instagram**: [@davmdev](https://instagram.com/davmdev)
