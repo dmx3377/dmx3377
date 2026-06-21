@@ -1,0 +1,1 @@
+Contains asset files for use on the README.
