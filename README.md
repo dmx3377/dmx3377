@@ -1,24 +1,28 @@
-# Hi, I'm David 👋
+<p align="center">
+  <img src="./assets/davmlogo-animated.svg" alt="davmdev logo" width="500">
+</p>
 
-I'm a software developer based in **Reading, UK**, focused on building clean and efficient applications and tools. 
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Go, C, C#, JavaScript, TypeScript, Lua, HTML5, CSS3, Kotlin |
-| **Frameworks & Frontend** | React, Tailwind CSS, Android, .NET |
-| **Systems & Scripting** | Python, Go, Lua |
+<p align="center">
+  <strong>Software Developer</strong><br>
+  <span style="font-size:.6rem;">From the <s>terrible</s> town of Reading, UK...</span>
+</p>
 
 ---
 
-## 📬 Get in Touch
+## Tech Stack & Capabilities
 
-I'm always open to collaborating on interesting projects or just talking tech. Feel free to reach out!
+* **Systems & High-Performance Backend:** Building optimized data ingestion systems, microservices, and parsing engines.
+  * `C++` • `C` • `C#` • `.NET` • `Go` • `Rust` *(Learning...)* • `Docker`
+* **Mobile & Web Development:** Crafting fast, lightweight, and modern user experiences.
+  * `Kotlin` • `Android SDK` • `TypeScript` • `JavaScript` • `React` • `Tailwind CSS`
+* **Scripting & Data Analysis:** Handling data pipelines and automation tools.
+  * `Python` • `Jupyter Notebook` • `Lua`
 
-* **Contact Form:** [dmx3377.uk/contact](https://dmx3377.uk/contact) *(Preferred)*
-* **X / Twitter:** [@dmx3377](https://x.com/dmx3377)
+---
+
+## Get in Touch
+
+* **Website:** [davm.dev/contact](https://davm.dev/contact) *(Preferred)*
 * **Email:** [hi@davm.dev](mailto:hi@davm.dev)
-* **Instagram**: [@davmdev](https://instagram.com/davmdev)
+* **X / Twitter:** [@dmx3377](https://x.com/dmx3377)
+* **Instagram:** [@davmdev](https://instagram.com/davmdev)
